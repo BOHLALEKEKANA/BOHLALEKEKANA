@@ -4,13 +4,14 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
 -Skills I developed:
 
-    📜 Language: Python, Java, PHP, C++
-    🗄  Backend: Node.js, 
-    🌐 Frontend: JavaScript, CSS, HML5 
+    📜 Language: Python, Java, C#, C++
+    🗄  Backend: Node.js, PHP
+    🌐 Frontend: JavaScript, CSS, HML5, UX/UI
     🛢 Database: MongoDB, MYSQL
-    ⚙️ VCS: GitHub
+    ⚙️ VCS: GitHub, VB.Net, MongoDB, Note.js
     🔧 IDE's: Visual Studio Code
-    🖥  Design: AdobeXD
+    🖥 SERVERS:SQL SERVER, XAMP SERVER
+     
 
 🌱 I’m currently learning Information Technology(Software Developer)
 📫 How to reach me inteligentkekana@gmail.com
