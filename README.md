@@ -14,7 +14,9 @@ I'm a software developer, specializing in building exceptional websites and mobi
      
 
 🌱 I’m doing my 3rd year in Information Technology(Software Developer)
+
 📫 inteligentkekana@gmail.com
+
 ⚡ Fun fact: I ENJOY eating, listening to good music and a toping of some good moments
 
 
