@@ -13,8 +13,8 @@ I'm a software developer, specializing in building exceptional websites and mobi
     🖥 SERVERS:SQL SERVER, XAMP SERVER
      
 
-🌱 I’m currently learning Information Technology(Software Developer)
-📫 How to reach me inteligentkekana@gmail.com
+🌱 I’m doing my 3rd year in Information Technology(Software Developer)
+📫 inteligentkekana@gmail.com
 ⚡ Fun fact: I ENJOY eating, listening to good music and a toping of some good moments
 
 
