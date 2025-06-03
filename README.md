@@ -13,7 +13,7 @@ I'm a software developer, specializing in building exceptional websites and mobi
     🖥 SERVERS:SQL SERVER, XAMP SERVER
      
 
-🌱 I’m doing my 3rd year in Information Technology(Software Developer)
+🌱 I’m doing my 3rd year as a Information Technology(Software Developer) at Richfield College.
 
 📫 hlalekekana1@gmail.com
 
