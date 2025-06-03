@@ -6,18 +6,18 @@ I'm a software developer, specializing in building exceptional websites and mobi
 
     📜 Language: Python, Java, C#, C++
     🗄  Backend: Node.js, PHP
-    🌐 Frontend: JavaScript, CSS, HML5, UX/UI
+    🌐 Frontend: JavaScript, CSS, HML5
     🛢 Database: MongoDB, MYSQL
-    ⚙️ VCS: GitHub, VB.Net, MongoDB, Note.js
+    ⚙️ VCS: GitHub, VB.Net
     🔧 IDE's: Visual Studio Code
     🖥 SERVERS:SQL SERVER, XAMP SERVER
      
 
 🌱 I’m doing my 3rd year in Information Technology(Software Developer)
 
-📫 inteligentkekana@gmail.com
+📫 hlalekekana1@gmail.com
 
-⚡ Fun fact: I ENJOY eating, listening to good music and a toping of some good moments
+⚡ Fun fact: I ENJOY eating, listening to good music and a toping of enjoyment
 
 
 ** Just like anyother programmer allow yourself to make mistakes and fix the mistakes learning and asking for help from other programmers **
