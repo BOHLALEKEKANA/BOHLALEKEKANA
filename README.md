@@ -1,4 +1,4 @@
-👋 Hi, I’m Inteligent Bohlale Kekana
+ Hi, I’m Inteligent Bohlale Kekana
 
 I'm a software developer, specializing in building exceptional websites and mobile applications, and everything in between.
 
